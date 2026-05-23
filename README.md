@@ -61,11 +61,9 @@ O app consome a API pública `https://dummyjson.com` via Axios
 
 ### Cupons disponíveis
 
-| Código  | Descrição       |
-| ------- | --------------- |
-| `5OFF`  | 5% de desconto  |
-| `10OFF` | 10% de desconto |
-| `15OFF` | 15% de desconto |
+| Código             | Descrição      |
+| ------------------ | -------------- |
+| `WORKSHOPIFSUMMIT` | 5% de desconto |
 
 O desconto total por item (loja + cupom) é limitado a 20%.
 

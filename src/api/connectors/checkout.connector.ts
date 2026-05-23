@@ -2,9 +2,7 @@ import { dummyjson } from "@/api/dummyjson";
 import type { CartItem, CheckoutResponse, CouponResponse } from "@/types/cart";
 
 const COUPON_ROUTES: Record<string, string> = {
-  "5OFF": "/c/6a9a-1f68-4544-b70e",
-  "10OFF": "/c/0527-f6c1-4258-93a4",
-  "15OFF": "/c/474b-c453-4db3-823a",
+  WORKSHOPIFSUMMIT: "/c/6a9a-1f68-4544-b70e",
 };
 
 const generateRandomOrderId = () => {
