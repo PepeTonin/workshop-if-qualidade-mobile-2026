@@ -1,6 +1,8 @@
 # Workshop Store
 
-Um app criado para demonstrar uma estratégia leve de testes E2E em aplicações React Native/Expo usando a build Web com Playwright.
+<img src="./assets/readme/BANNER-IF-SUMMIT.webp" alt="IF Summit Banner" />
+
+Repositório utilizado na apresentação do **[IF Summit 2026](https://ifpr.edu.br/cascavel/ifsummit/)** — evento do IFPR Campus Cascavel — para demonstrar uma estratégia leve de testes E2E em aplicações React Native/Expo usando a build Web com Playwright.
 
 ## Sobre o projeto
 
