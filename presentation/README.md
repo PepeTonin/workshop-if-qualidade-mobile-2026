@@ -1,3 +1,3 @@
 # Apresentação
 
-- [Link da apresentação](https://apresentacao-react-native-uol.my.canva.site/workshop-ifsummit-2026)
+- link da apresentação foi despublicado, mas o pdf está disponível no repo
